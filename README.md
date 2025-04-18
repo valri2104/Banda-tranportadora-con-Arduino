@@ -23,4 +23,4 @@ Para las instrucciones se utilizan el SWITCH1 y SWITCH2, representando pares de 
 ![Captura de pantalla 2024-04-23 193855](https://github.com/valri2104/Banda-tranportadora-con-Arduino/assets/116900861/42e4a74a-a78c-442c-ab5e-0d174ed161d8)
 
 ## ARCHIVOS:
-Los archivos para este proyecto unicamente consta de un archivo llamado Parcial2.ino.
+Los archivos para este proyecto unicamente consta de un archivo llamado **Parcial2.ino**.
